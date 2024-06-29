@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Quiz App</title>
+       <link rel="icon" href="img\globe.png">
+        <link rel="stylesheet" href="style.css ">
+    </head>
+    <body>
+         <!-- Info Box -->
+    <div class="info_box">
+        <div class="info-title"><span>Some Rules of this Quiz</span></div>
+        <div class="info-list">
+            <div class="info">1. Try to have the highest score within 100 seconds.</div>
+            <div class="info">2. Once you select your answer, it can't be undone.</div>
+            <div class="info">3. You can't select any option once time goes off.</div>
+            <div class="info">4. You can't exit from the Quiz while you're playing.</div>
+            <div class="info">5. You'll get points on the basis of your correct answers.</div>
+        </div>
+    <div class="app">
+        <h1>Quiz:Capitals</h1>
+    <div class="quiz">
+        <!--Question line-->
+        <h2 id="question">Question goes here</h2>
+        <div id="js_timer">
+            <div id="timer">
+              00:00
+            </div>
+            <button onclick="pause()">pause</button>
+            
+          <div>
+        <!--Answers Buttons-->
+        <div id="answer-buttons">
+            <button class="btn">Answer 1</button>
+            <button class="btn">Answer 2</button>
+            <button class="btn">Answer 3</button>
+            <button class="btn">Answer 4</button>
+        </div>
+        <button id="next-btn">Next</button>
+    </div>
+   </div>  
+   <script src="script.js"></script>
+   <footer>Made by <span><b>Mouhamed El Bachir Diankha</b></span></footer>   
+    </body>
+</html>
