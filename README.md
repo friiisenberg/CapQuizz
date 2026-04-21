@@ -58,7 +58,10 @@ Or simply download the ZIP and open `index.html` directly.
 CapQuizz/
 ├── index.html       # Main HTML file
 ├── style.css        # Stylesheet
-└── script.js        # Quiz logic and DOM manipulation
+├──script.js         # Quiz logic and DOM manipulation
+├── sec.html         # Secondary HTML file
+├── style2.css       # Stylesheet for feedback.
+└── app.js           # Feedback interaction
 ```
  
 ---
