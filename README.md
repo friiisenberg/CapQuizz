@@ -1,4 +1,15 @@
- 🌍 CapQuizz
+<div align="center">
+
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=120&lines=friiisenberg+%F0%9F%9A%80;Frontend+Developer)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;From+Senegal)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 About 
+**🌍 CapQuizz**  
  
 > A capitals quiz web app built as a final project for the GOMYCODE Introduction to Web Development course — 20 questions, 4 choices each, pure vanilla frontend.
  
